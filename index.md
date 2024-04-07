@@ -8,7 +8,7 @@ The first script I learned was `System.out.print("Hello World");
 My first major PA was in CSE 11, specifically a [Photo Editor](https://github.com/ar-dutta2026/Photo-Editor)
 
 ## Other things
-My favorite TV show is  ![](https://static.wikia.nocookie.net/avatar/images/9/99/Opening_Avatar_logo.png/revision/latest?cb=20140102120406)
+My favorite TV show is  ![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Avatar_The_Last_Airbender_logo.svg)
 My Other favorite show is ![](https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg)
 
 ## Other Repos
