@@ -3,7 +3,7 @@
 ** I am a sophomore at UCSD **
 > Specifically I am a Computer Engineering Major
 
-The first script I learned was `System.out.print("Hello World");
+The first script I learned was `System.out.print("Hello World");`
 
 My first major PA was in CSE 11, specifically a [Photo Editor](https://github.com/ar-dutta2026/Photo-Editor)
 
